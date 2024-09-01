@@ -135,7 +135,7 @@ def update_haat_map(_):
     ))
 
     fig.update_layout(
-        title="Montthly Teamptaratur",
+        title="Monthly Temprature",
         xaxis_title="Year",
         yaxis_title="Month")
 
